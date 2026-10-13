@@ -1,0 +1,10 @@
+{
+  "restaurant_name": "Amrapali Campus Diner",
+  "tax_rate": 0.05,
+  "currency_symbol": "₹",
+  "max_failed_attempts": 5,
+  "lockout_duration_seconds": 60,
+  "password_min_length": 8,
+  "max_discount_percent": 20.0,
+  "db_path": "db/restaurant_pos.db"
+}
